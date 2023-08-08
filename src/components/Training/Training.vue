@@ -183,7 +183,7 @@ export default {
     }
 
     .background {
-        background-image: url("../../assets/stories/1.11.jpg");
+        background-image: url("../../assets/stories/111.jpeg");
         background-size: cover;
         object-fit: cover;
         background-repeat: no-repeat;
